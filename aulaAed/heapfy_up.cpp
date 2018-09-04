@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void heapfy_up(O_HEAP *vetor, int novo){
 	int i = novo , tmp;
 
