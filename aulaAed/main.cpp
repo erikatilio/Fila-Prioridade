@@ -6,7 +6,7 @@ using namespace std;
 
 #define MAX 10
 
-typedef struc{
+typedef struct{
 	int chave[MAX];
 	int no_elem;
 }O_HEAP;
