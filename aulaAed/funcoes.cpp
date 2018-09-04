@@ -46,3 +46,9 @@ int remover_maximo(O_HEAP *hp){
 	heapify(hp, 1);
 	return maximo;
 }
+
+//remover minimo
+int remover_minimo(O_HEAP * hp)
+{
+        hp->no_elem--;
+}
