@@ -1,11 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
-#include <heapify.cp>
-#include <heapify_up.cpp>
-#include <inserir_novo.cpp>
-#include <remover_maximo.cpp>
-#include <aumentar_valor.cpp>
+#include <funcoes.cpp>
 
 using namespace std;
 
