@@ -1,5 +1,9 @@
 //funções úteis
 
+typedef struct{
+	int chave[MAX];
+	int no_elem;
+}O_HEAP;
 //aumentar
 void aumentar_valor(O_HEAP *vetor, int elemt, int valor){
 	if(vetor->chave[elemt-1] > valor)
