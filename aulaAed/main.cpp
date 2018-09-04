@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
-#include <heapfy_up.cpp>
+#include <heapify_up.cpp>
 #include <inserir_novo.cpp>
 
 using namespace std;
